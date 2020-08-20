@@ -9,7 +9,7 @@
  Development of measurement, metrology and control lab on virtual platform.
 
 <h5> About the Experiment : </h5>
- Experiment will performed on a virtual hole and shaft assembly problem and final dimension of the tolerances zone, clearance, Interfrence and type of fit will be obtained with all the limit.
+ Experiment will performed on a virtual hole and shaft assembly problem and final dimension of the tolerance zone, clearance, Interfrence and type of fit will be obtained with all the limits.
 
 <h5> Target Audience : </h5>
 Under Graduate and Post Graduate students from mechanical engineering.
