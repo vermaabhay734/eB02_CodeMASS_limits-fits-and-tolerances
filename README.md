@@ -43,7 +43,3 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 3 | Abhay Verma | Student | Computer Science and Engineering Department | Bundelkhand University, Jhansi |veramaabhay734@gmail.com
 4 | Maansi | Student | Computer Science and Engineering Department | Bundelkhand University, Jhansi |maansiverma8@gmail.com
 4 | Shruti Sharma | Student | Computer Science and Engineering Department | Bundelkhand University, Jhansi |shrutisharma12feb@gmail.com
-
-
-<br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
