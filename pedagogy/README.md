@@ -63,10 +63,10 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| User will be able to tell the different parts of the components. | Simulator show an assembly | Where is shaft? <br> Where is hole? <br> What is the deviation given in question?
+1.| User will be able to identify the different parts of the components. | Simulator show an assembly | Where is shaft? <br> Where is hole? <br> What is the deviation given in question?
 2.| User will be able to compare different types of fits in an assembly | Based on user input simulator will show different types of assembly | Which type of fit the simulator is showing? 
-3.| User will be able to create the assembly for any given assembly | Simulator will create new assemblies based on user input | Create an assembly with clearance fit?<br> Create an assembly with Interference fit? <br> Create an assembly with Transition fit? <br>Design a assembly based on tolerance?
-4.| User will able to calculate the values of given assembly | Based on input user will able to calculate others value in simulators | Find the tolerance zone? <br>Find minimum and maximum clearance?
+3.| User will be able to create the assembly for any given data. | Simulator will create new assemblies based on user input | Create an assembly with clearance fit?<br> Create an assembly with Interference fit? <br> Create an assembly with Transition fit? <br>Design a assembly based on tolerance?
+4.| User will able to calculate the numerical parameter value of any given assembly | Based on input user will able to calculate others value in simulators | Find the tolerance zone? <br>Find minimum and maximum clearance?
 
  <u> You can add additional TASKS & Assessment Questions <u>
 <br/>
