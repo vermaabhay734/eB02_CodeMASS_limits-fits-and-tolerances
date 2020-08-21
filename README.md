@@ -38,8 +38,8 @@ AKTU Lucknow
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Vivek Yadav | Faculty | Mechanical engineering Department | Bundelkhand University, Jhansi | vivekyadavjhs@gmail.com
-2 | Sheikh Asadullah | Student | Mechanical engineering Department | Bundelkhand University, Jhansi |sheikhasadullah99@gmail.com
-3 | Abhay Verma | Student | Computer Science and Engineering Department | Bundelkhand University, Jhansi |veramaabhay734@gmail.com
-4 | Maansi | Student | Computer Science and Engineering Department | Bundelkhand University, Jhansi |maansiverma8@gmail.com
+
+1 | Sheikh Asadullah | Student | Mechanical engineering Department | Bundelkhand University, Jhansi |sheikhasadullah99@gmail.com
+2 | Abhay Verma | Student | Computer Science and Engineering Department | Bundelkhand University, Jhansi |veramaabhay734@gmail.com
+3 | Maansi | Student | Computer Science and Engineering Department | Bundelkhand University, Jhansi |maansiverma8@gmail.com
 4 | Shruti Sharma | Student | Computer Science and Engineering Department | Bundelkhand University, Jhansi |shrutisharma12feb@gmail.com
