@@ -2,11 +2,11 @@
 
 <b>Discipline | <b> Mechanical engineering
 :--|:--|
-<b> Lab | <b> Computer added machine drawing II Lab
-<b> Experiment|     <b> (KME 453) To study about limit, fit, and tolerances
+<b> Lab | <b> Computer added machine drawing II Lab.
+<b> Experiment|     <b>1. To study about limit, fit, and tolerances.
 
 <h5> About the Lab (Objective) : </h5>
- Development of measurement, metrology and control lab on virtual platform.
+ Development of computer aided machine lab II through which we perform the practical of limit, fit and tolerances of shaft and hole assembly in the virtual platform.
 
 <h5> About the Experiment : </h5>
  Experiment will performed on a virtual hole and shaft assembly problem and final dimension of the tolerances zone, clearance, Interfrence and type of fit will be obtained with all the limit.
@@ -18,7 +18,7 @@ Under Graduate and Post Graduate students from mechanical engineering.
 Mechanical engineering course 
 
 <h5> Universities Mapped : </h5>
-AKTU
+AKTU Lucknow
 
 <b>Name of Developer | <b> Vivek Yadav
 :--|:--|
