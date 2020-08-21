@@ -68,7 +68,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 3.| User will be able to develop the assembly for any given data. | Simulator will create new assemblies based on user input | Create an assembly with clearance fit?<br> Create an assembly with Interference fit? <br> Create an assembly with Transition fit? <br>Design a assembly based on tolerance?
 4.| User will able to calculate the numerical parameter value of any given assembly | Based on input user will able to calculate others value in simulators | Find the tolerance zone? <br>Find minimum and maximum clearance?
 
- <u> You can add additional TASKS & Assessment Questions <u>
+ 
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
