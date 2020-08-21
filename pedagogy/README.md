@@ -26,10 +26,10 @@ The user will able to understand the shaft and hole , and also able to understan
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to identify the different parts of the components: | Remembering|Recall
+1.| User will be able to identify the different parts of the components: | Remembering|Identify
 2.| User will be able to compare different types of fits in an assembly: | Understanding  |Compare
-3.| User will be able to create the assembly for any given data:| apply | develop
-4.|User will able to calculate the numerical parameter value of any given assembly: | Apply | Solve
+3.| User will be able to develop the assembly for any given data:| apply | develop
+4.|User will able to calculate the numerical parameter value of any given assembly: | Apply | Calculate
 
 
 <br/>
@@ -65,7 +65,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 :--|:--|:--|:-:
 1.| User will be able to identify the different parts of the components. | Simulator show an assembly | Where is shaft? <br> Where is hole? <br> What is the deviation given in question?
 2.| User will be able to compare different types of fits in an assembly | Based on user input simulator will show different types of assembly | Which type of fit the simulator is showing? 
-3.| User will be able to create the assembly for any given data. | Simulator will create new assemblies based on user input | Create an assembly with clearance fit?<br> Create an assembly with Interference fit? <br> Create an assembly with Transition fit? <br>Design a assembly based on tolerance?
+3.| User will be able to develop the assembly for any given data. | Simulator will create new assemblies based on user input | Create an assembly with clearance fit?<br> Create an assembly with Interference fit? <br> Create an assembly with Transition fit? <br>Design a assembly based on tolerance?
 4.| User will able to calculate the numerical parameter value of any given assembly | Based on input user will able to calculate others value in simulators | Find the tolerance zone? <br>Find minimum and maximum clearance?
 
  <u> You can add additional TASKS & Assessment Questions <u>
