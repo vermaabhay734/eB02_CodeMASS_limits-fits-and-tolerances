@@ -38,7 +38,6 @@ AKTU Lucknow
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-
 1 | Sheikh Asadullah | Student | Mechanical engineering Department | Bundelkhand University, Jhansi |sheikhasadullah99@gmail.com
 2 | Abhay Verma | Student | Computer Science and Engineering Department | Bundelkhand University, Jhansi |veramaabhay734@gmail.com
 3 | Maansi | Student | Computer Science and Engineering Department | Bundelkhand University, Jhansi |maansiverma8@gmail.com
