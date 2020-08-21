@@ -26,7 +26,7 @@ The user will able to understand the shaft and hole , and also able to understan
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to identify the different parts of the components: | Remembering|Tell
+1.| User will be able to identify the different parts of the components: | Remembering|Recall
 2.| User will be able to compare different types of fits in an assembly: | Understanding  |Compare
 3.| User will be able to create the assembly for any given data:| apply | develop
 4.|User will able to calculate the numerical parameter value of any given assembly: | Apply | Solve
