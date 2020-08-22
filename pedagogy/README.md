@@ -85,4 +85,4 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.| User will choose which type of data he wants to provide | Simulator will change the way of taking inputs as per user | To widen up the input methods
 2.|User will now provide information of the given assembly | Simulator will understand the values and calculate the results | To see the results
-3.| User will press on graphical representaiton tab | Simulator will create a assembly with the help of calculated results | For pictorial presentation
+3.| User will press on graphical representation tab | Simulator will create a assembly with the help of calculated results | For pictorial presentation
