@@ -38,7 +38,7 @@ The lower deviation of a hole is represented by a symbol EI (Ecart Inferior) and
 
 <b> Unilateral Tolerance: </b> In this system, the dimension of a part is allowed to vary only on one side of the basic size, i.e. tolerance lies wholly on one side of the basic size either above or below it.
 
-<img src="images/2.png"/><br>
+<img src="images/3.png"/><br>
 
 
 <b> Bilateral Tolerance: </b> In this system, the dimension of the part is allowed to vary on both the sides of the basic size, i.e. the limits of tolerance lie on either side of the basic size.<br>
@@ -59,7 +59,7 @@ The types of fits are depending on the clearance they are.<br>
 •	Clearance fit<br>
 •	Transition fit<br>
 •	Interference fit<br>
-#### Clearance fit:
+### Clearance fit:
 •	Clearance fit is arises at the Diameter of the shaft is smaller then the hole.<br>
 •	The minimum diameter of hole is grater then large diameter of the shaft.<br>
 •	Clearance value is positive when in this type of fit.<br>
@@ -69,12 +69,12 @@ The types of fits are depending on the clearance they are.<br>
 <img src="images/clearance.png"/><br>
 
 
-#### Transition fit:
+### Transition fit:
 The transition fit is obtained when the diameter of the largest hole is grater then the diameter of the smallest hole.<br>
 
 <img src="images/transition.png"/><br>
 
-#### Interference fit:
+### Interference fit:
 The interference type of fit the minimum allowable diameter of the shaft is larger than the maximum permissible diameter of the hole. As the diameter of the shaft is larger than the diameter of hole.<br>
 •	The hole and shaft is intended to be attached permanently.<br>
 
