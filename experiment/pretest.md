@@ -1,6 +1,6 @@
 ## Pre-test
 <br>
-### Please attempt the following questions
+<b> Please attempt the following questions </b>
 <br>
 
 <b>1) when the tolerance is given on one side of the basic dimension, it is called _________<br></b>
