@@ -30,9 +30,9 @@ AKTU Lucknow
 
 <b>Mentored by | <b> Senthil Subramanian
 :--|:--|
-<b> Institute | <b> N/A
+<b> Institute | <b> Sharda Group of Institutes, Agra
 <b> Email id|     <b> tss.senthil.hcst@sgei.org
-<b> Department | N/A
+<b> Department | Civil Engineering
 
 #### Contributors List
 
