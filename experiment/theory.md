@@ -1,77 +1,81 @@
 ## Theory
-<b> Some basic definition for understanding the limit, fit and tolerances :
-<h4> Basic Size: </h4> The size with reference to which the limits of size are fixed.
+<b> Some basic definition for understanding the limit, fit and tolerances : </b>
+<b> Basic Size: </b>The size with reference to which the limits of size are fixed.<br>
 
-<h4> Actual Size: </h4> Actual measured dimension of the part.
+<b> Actual Size: </b> Actual measured dimension of the part.<br>
 
-<h4> Zero Line: </h4> It is a straight line corresponding to the basic deviations is measured from this line. The positive and negative deviations are shown above and below the zero line respectively
+<b> Zero Line: </b> It is a straight line corresponding to the basic deviations is measured from this line. The positive and negative deviations are shown above and below the zero line respectively<br>
 
-![Hole and Shaft](/images/1.png)
+<img src="images/1.png"/><br>
 
-<h4> Limits of Size: </h4> The two extreme permissible sizes of a part between which the actual size should lie.
+<b> Limits of Size: </b> The two extreme permissible sizes of a part between which the actual size should lie.<br>
 
-<h4> Maximum Limit of Size: </h4> The greater of the two limits of  size.
+<b> Maximum Limit of Size: </b> The greater of the two limits of  size.<br>
 
-<h4> Minimum Limit of Size: </h4> The smaller of the two limits of size.
+<b> Minimum Limit of Size: </b> The smaller of the two limits of size.<br>
 
-<h4> Shaft: </h4> A term used by convention to designate all external features of a part, including those which are not cylindrical.
+<b> Shaft: </b> A term used by convention to designate all external features of a part, including those which are not cylindrical.<br>
 
-<h4> Hole: </h4> A term used by convention to designate all internal features of a part, including those which are not cylindrical.
+<b> Hole: </b> A term used by convention to designate all internal features of a part, including those which are not cylindrical.<br>
 
-<h4> Allowance: </h4> It is the difference between the basic dimensions of the mating parts.
-When the shaft size is less than the hole size, then the allowance is positive and when the shaft size is greater than the hole size, then the allowance is negative.
+<b> Allowance: </b> It is the difference between the basic dimensions of the mating parts.
+When the shaft size is less than the hole size, then the allowance is positive and when the shaft size is greater than the hole size, then the allowance is negative.<br>
 
-<h4> Tolerance: </h4> It is the difference between the upper limit and lower limit of a dimension
+<b> Tolerance: </b> It is the difference between the upper limit and lower limit of a dimension.<br>
 
-<h4> Tolerance Zone: </h4> It is the zone between the maximum and minimum limit size.
+<b> Tolerance Zone: </b> It is the zone between the maximum and minimum limit size.<br>
 
-<h4> Upper Deviation: </h4> It is the algebraic difference between the maximum size and the basic size.
-The upper deviation of a hole is represented by a symbol ES (Ecart Superior) and of a shaft, it is represented by es.
+<b> Upper Deviation: </b> It is the algebraic difference between the maximum size and the basic size.
+The upper deviation of a hole is represented by a symbol ES (Ecart Superior) and of a shaft, it is represented by es.<br>
 
-<h4> Lower Deviation: </h4> It is the algebraic difference between the minimum size and the basic size.
-The lower deviation of a hole is represented by a symbol EI (Ecart Inferior) and of a shaft, it is represented by ei.
+<b> Lower Deviation: </b> It is the algebraic difference between the minimum size and the basic size.
+The lower deviation of a hole is represented by a symbol EI (Ecart Inferior) and of a shaft, it is represented by ei.<br>
 
-</h4> Fundamental deviation: </h4> This is the deviation, either the upper or the lower deviation, which is nearest one to zero line for either a hole or shaft.
+</b> Fundamental deviation: </b> This is the deviation, either the upper or the lower deviation, which is nearest one to zero line for either a hole or shaft.<br>
 
-![Fundamental deviation](/images/2.png)
+<img src="images/2.png"/><br>
 
-<h4> Unilateral Tolerance: </h4> In this system, the dimension of a part is allowed to vary only on one side of the basic size, i.e. tolerance lies wholly on one side of the basic size either above or below it.
 
-![Unilateral Tolerance](/images/3.png)
+<b> Unilateral Tolerance: </b> In this system, the dimension of a part is allowed to vary only on one side of the basic size, i.e. tolerance lies wholly on one side of the basic size either above or below it.
 
-<h4> Bilateral Tolerance: </h4> In this system, the dimension of the part is allowed to vary on both the sides of the basic size, i.e. the limits of tolerance lie on either side of the basic size.
+<img src="images/2.png"/><br>
 
-![Bilateral Tolerance](/images/4.png)
+
+<b> Bilateral Tolerance: </b> In this system, the dimension of the part is allowed to vary on both the sides of the basic size, i.e. the limits of tolerance lie on either side of the basic size.<br>
+
+<img src="images/4.png"/><br>
+
 
 ### What is Fit?
 
-Fit is defined as the degree of freedom of tightness between the mating parts in an assembly process. Fit obtaining parts are either movable joints or fixed joints.
-##### For Example Shaft and Bearing assembly.
-•	When the shaft is running in a bearing can move in relation to it thus forms a movable joint.
-•	Pulley mounted on the shaft forms a fixed joint.
-##### Different Types of Fits:
-The types of fits are depending on the clearance they are.
-•	Clearance fit
-•	Transition fit
-•	Interference fit
-#### Clearance fit:
-•	Clearance fit is arises at the Diameter of the shaft is smaller then the hole.
-•	The minimum diameter of hole is grater then large diameter of the shaft.
-•	Clearance value is positive when in this type of fit.
-<h4> Maximum Clearance: </h4> It is the difference between the maximum size of hole and minimum size of shaft.
-<h4> Minimum clearance: </h4> It is the difference between the maximum size of shaft and minimum size of the hole.
+Fit is defined as the degree of freedom of tightness between the mating parts in an assembly process. Fit obtaining parts are either movable joints or fixed joints.<br>
 
-![Clearance fit](/images/clearance.png)
+#### For Example Shaft and Bearing assembly.
+•	When the shaft is running in a bearing can move in relation to it thus forms a movable joint.<br>
+•	Pulley mounted on the shaft forms a fixed joint.<br>
+
+#### Different Types of Fits:
+The types of fits are depending on the clearance they are.<br>
+•	Clearance fit<br>
+•	Transition fit<br>
+•	Interference fit<br>
+#### Clearance fit:
+•	Clearance fit is arises at the Diameter of the shaft is smaller then the hole.<br>
+•	The minimum diameter of hole is grater then large diameter of the shaft.<br>
+•	Clearance value is positive when in this type of fit.<br>
+<b> Maximum Clearance: </b> It is the difference between the maximum size of hole and minimum size of shaft.<br>
+<b> Minimum clearance: </b> It is the difference between the maximum size of shaft and minimum size of the hole.<br><br>
+
+<img src="images/clearance.png"/><br>
 
 
 #### Transition fit:
-The transition fit is obtained when the diameter of the largest hole is grater then the diameter of the smallest hole.
+The transition fit is obtained when the diameter of the largest hole is grater then the diameter of the smallest hole.<br>
 
-![Transition fit](/images/transition.png)
+<img src="images/transition.png"/><br>
 
 #### Interference fit:
-The interference type of fit the minimum allowable diameter of the shaft is larger than the maximum permissible diameter of the hole. As the diameter of the shaft is larger than the diameter of hole.
-•	The hole and shaft is intended to be attached permanently.
+The interference type of fit the minimum allowable diameter of the shaft is larger than the maximum permissible diameter of the hole. As the diameter of the shaft is larger than the diameter of hole.<br>
+•	The hole and shaft is intended to be attached permanently.<br>
 
-![Interference fit](/images/interference.png)
-
+<img src="images/interference.png"/><br>
