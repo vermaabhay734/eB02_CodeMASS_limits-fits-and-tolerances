@@ -56,7 +56,7 @@ In whole experiment, basically we get result of types of fits.<br>
 6.	Width of Hole Tolerance zone =ES-EI <br>
 
 
-### 3. Flowchart 4
+### 3. Flowchart 
 <br>
 <img src="flowchart/flowchart.png"/><br><br>
 
