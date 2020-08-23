@@ -24,7 +24,7 @@ AKTU Lucknow
 :--|:--|
 <b> Institute | <b> Bundelkhand University
 <b> Email id|     <b> vivekyadavjhs@gmail.com
-<b> Department | Mechanical Engineering Department
+<b> Department | <b>Mechanical Engineering Department
 
 #### Mentor Details
 
@@ -32,7 +32,7 @@ AKTU Lucknow
 :--|:--|
 <b> Institute | <b> Sharda Group of Institutes, Agra
 <b> Email id|     <b> tss.senthil.hcst@sgei.org
-<b> Department | Institute Industry Interface
+<b> Department | <b> Institute Industry Interface
 
 #### Contributors List
 
