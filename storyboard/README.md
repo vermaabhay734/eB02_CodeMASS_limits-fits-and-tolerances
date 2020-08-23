@@ -66,7 +66,7 @@ In whole experiment, basically we get result of types of fits.<br>
  
 ### 5. Storyboard :
 <br>
-<img src="Storyboard/storyboard.png"/><br><br>
+<img src="storyboard/storyboard.png"/><br><br>
 
 <!-- Storyboard: <a href="Storyboard/storyboard.png"> [here]</a> -->
 <br>
