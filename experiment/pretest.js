@@ -97,34 +97,34 @@
         c: "Unilateral tolerance",                  ///// Write the option 3 inside double quotes
         d: "Bilateral tolerance"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "The difference between the maximum and minimum sizes allowed in manufactured components is called _________",  ///// Write the question inside double quotes
+     question: "2. The difference between the maximum and minimum sizes allowed in manufactured components is called _________",  ///// Write the question inside double quotes
       answers: {
         a: "Clearance",                  ///// Write the option 1 inside double quotes
         b: "Allowance",                  ///// Write the option 2 inside double quotes
         c: "Tolerance",                  ///// Write the option 3 inside double quotes
         d: "Limit"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
 
     {
-      question: "The measured size of the dimension of the component is called _________ ",
+      question: "3. The measured size of the dimension of the component is called _________ ",
       answers: {
         a: "Basic size",
         b: "Normal size",
         c: "Allowed size",
         d: "None of above"
       },
-      correctAnswer: "c"
+      correctAnswer: "d"
     },
     
     {
-      question: "A pin fitted in a hole. The tolerance zone of the pin is entirely above of that hole. The is obtained will be _________",
+      question: "4. A pin fitted in a hole. The tolerance zone of the pin is entirely above of that hole. The is obtained will be _________",
       answers: {
         a: "Clearance fit",
         b: "Transition fit",
@@ -135,36 +135,36 @@
     },
         
     {
-      question: "Bilateral tolerance is fixed _________",
+      question: "5. Bilateral tolerance is fixed _________",
       answers: {
         a: "On upper side of the basic size",
         b: "On lower side of the basic size",
         c: "On any one side of the basic size",
         d: "On both side(Upper and lower ) of the basic size"
       },
-      correctAnswer: "c"
+      correctAnswer: "d"
     },  
 
     {
-      question: "Basic shaft and basic hole are those whose upper deviation and lower deviation respectively are _________",
+      question: "6. Basic shaft and basic hole are those whose upper deviation and lower deviation respectively are _________",
       answers: {
         a: "+ve, -ve",
         b: "–ve, +ve",
         c: "Zero, Zero",
         d: "None of the above"
       },
-      correctAnswer: "c"
+      correctAnswer: "a"
     },
     
     {
-      question: "In order to have interference fit, it is essential that the lower limit of the shaft should be _________",
+      question: "7. In order to have interference fit, it is essential that the lower limit of the shaft should be _________",
       answers: {
         a: "Greater than the upper limit of the hole.",
         b: "Lesser than the upper limit of the hole.",
         c: "Greater than the lower limit of the hole.",
         d: "Lesser than the lower limit of the hole."
       },
-      correctAnswer: "c"
+      correctAnswer: "a"
     },
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )

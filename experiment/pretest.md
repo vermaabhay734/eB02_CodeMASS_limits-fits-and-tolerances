@@ -4,27 +4,27 @@
 <br>
 
 <b>1) when the tolerance is given on one side of the basic dimension, it is called _________<br></b>
-<b>a) Tolerance system<br></b>
-b) Allowance system<br>
+a) Tolerance system<br>
+<b>b) Allowance system<br></b>
 c) Unilateral tolerance<br>
 d) Bilateral tolerance<br>
 
 <b>2) The difference between the maximum and minimum sizes allowed in manufactured components is called _________<br></b>
 a) Clearance <br>
-<b> b) Allowance<br></b>
-c) Tolerance <br>
+b) Allowance<br>
+<b>c) Tolerance <br></b>
 d) Limit<br>
 
 <b>3) The measured size of the dimension of the component is called _________ <br></b>
 a) Basic size<br>
-<b>b) Normal size<br></b>
+b) Normal size<br>
 c) Allowed size<br>
-d) Normal size<br>
+<b>d) Normal size<br></b>
 
 <b>4) A pin fitted in a hole. The tolerance zone of the pin is entirely above of that hole. The is obtained will be _________<br></b>
-<b>a) Clearance fit<br></b>
+a) Clearance fit<br>
 b) Transition fit <br>
-c) Interference fit<br>
+<b>c) Interference fit<br></b>
 d) None of above<br>
 
 <b>5) Bilateral tolerance is fixed _________<br></b>
@@ -40,8 +40,8 @@ c) Zero, Zero  <br>
 d) None of the above<br>
 
 <b>7) In order to have interference fit, it is essential that the lower limit of the shaft should be _________<br></b>
-a)	Greater than the upper limit of the hole .<br>
-<b>b)	Lesser than the upper limit of the hole.<br></b>
+<b>a)	Greater than the upper limit of the hole .<br></b>
+b)	Lesser than the upper limit of the hole.<br>
 c)	Greater than the lower limit of the hole.<br>
 d)	Lesser than the lower limit of the hole.<br>
 
