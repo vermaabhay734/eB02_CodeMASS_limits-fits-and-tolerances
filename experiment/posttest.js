@@ -90,28 +90,58 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Limits of 50 mm hole is es=+0.025 and ei=+.002 mm.The maximum and minimum hole sizes will be:",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Max.  50.02 mm ; Min. 49.998 mm",                  ///// Write the option 1 inside double quotes
+        b: "Max. 50.025 mm ; Min. 50.002 mm",                  ///// Write the option 2 inside double quotes
+        c: "Max. 49.998 mm ; Min. 50.002 mm",                  ///// Write the option 3 inside double quotes
+        d: "Max. 49.990 mm ; Min. 49.975 mm"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "A dimension is stated as 25-0.02+0.02mm in a drawing. What is the tolerance?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "25.00 mm",                  ///// Write the option 1 inside double quotes
+        b: "+0.02 mm",                  ///// Write the option 2 inside double quotes
+        c: "-0.02 mm",                  ///// Write the option 3 inside double quotes
+        d: "0.04 mm"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
 
+    {
+      question: "The size of a component is given as 24 -0.1mm. What does -0.1 indicate?",
+      answers: {
+        a: "Upper deviation is +0.1 mm",
+        b: "Lower deviation is 0.0 mm",
+        c: "Fundamental deviation is 0.0 mm",
+        d: "Lower deviation is -0.1 mm"
+      },
+      correctAnswer: "c"
+    },
+    {
+      question: "Which one among the following is the correct statement?",
+      answers: {
+        a: "A clearance fit always provides interference.",
+        b: "An interference fit always provides clearance.",
+        c: "An interference fit may sometime provide clearance and sometime interference.",
+        d: "A transition fit may sometime provide clearance and sometime interference."
+      },
+      correctAnswer: "c"
+    },
+    {
+      question: "Dimension of the hole is 500.00-0.002 mm and shaft is 500.00 +0.002mm.The minimum clearance is",
+      answers: {
+        a: "0.02 mm",
+        b: "0.00 mm",
+        c: "-0.02 mm",
+        d: "0.01 mm"
+      },
+      correctAnswer: "c"
+    },
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
