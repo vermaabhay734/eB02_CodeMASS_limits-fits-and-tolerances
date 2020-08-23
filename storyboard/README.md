@@ -31,11 +31,11 @@ The main objective of this experiment is to let the user know about the type of 
 a)	10 microns <br>
 b)	20 microns <br>
 c)	30 microns <br>
-d)	60 microns <br><br>
+<b>d)	60 microns <br></b><br>
 2.	A hole is specified as 40 +0.000.050 mm. The mating shaft has a clearance fit with minimum clearance 0.01 mm. The tolerance on the shaft is 0.04 mm. The maximum clearance in mm between the hole and shaft is<br>
 a)	0.04 <br>
 b)	0.05<br>
-c)	0.10<br>
+<b>c)	0.10<br></b>
 d)	0.11<br>
 
 ##### 2.5 Allow pitfalls:
