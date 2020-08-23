@@ -32,7 +32,7 @@ AKTU Lucknow
 :--|:--|
 <b> Institute | <b> Sharda Group of Institutes, Agra
 <b> Email id|     <b> tss.senthil.hcst@sgei.org
-<b> Department | Civil Engineering
+<b> Department | Institute Industry Interface
 
 #### Contributors List
 
