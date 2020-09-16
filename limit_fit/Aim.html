@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="main.css">
+<title>Virtual Labs</title>
+	<link rel="shortcut icon" href="images/logo.jpg">
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script >
+	/* Set the width of the side navigation to 250px and the left margin of the page content to 250px */
+   function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+    document.getElementById("main").style.marginLeft = "250px";
+  }
+
+/* Set the width of the side navigation to 0 and the left margin of the page content to 0 */
+  function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+    document.getElementById("main").style.marginLeft = "0";
+  }
+
+</script>
+</head>	
+<body>
+
+	<header>
+		<nav class="navbar">
+			<input type="checkbox" id="check" >
+			<label for="check">
+				<i class ="fas fa-bars " id="btn2"></i>
+				<i class ="fas fa-times " id="cancel"></i>
+			</label>
+			<img src="images/img1.jpg">
+			<ul class="main-nav">			    
+				    <li><a  class="active" href="home.html">HOME</a></li>
+					<li><a href=" http://vlab.co.in/contact-us">About</a></li>
+					<li><a href=" #">Labs</a></li>
+					
+					
+			</ul>
+		</nav>
+    </header>
+    <div>
+    	<hr border-color="blue" width="100%" top="120px" >
+    </hr>
+    </div>	
+    
+    <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <a href="Aim.html">Aim</a>
+      <a href="Theory.html">Theory</a>
+      <a href="#">PreTest</a>
+      <a href="#">Procedure</a>
+      <a href="#">Simulation</a>
+      <a href="#">PostTest</a>
+      <a href="#">Reference</a>
+    </div>
+
+<!-- Use any element to open the sidenav -->
+    <span onclick="openNav()"><b>Menu</b><input type="checkbox" id="check" >
+			<label for="check">
+				<i class ="fas fa-bars " id="btn3"></i>
+			</label>
+	</span>
+
+<!-- Add all page content inside this div if you want the side nav to push page content to the right (not used if you only want the sidenav to sit on top of the page -->
+    <div id="aim">
+       Aim-->To study about limit, fit, and tolerances
+    </div>
+    <div class="footer">
+     <p><a href="https://www.facebook.com/sharer/sharer.php?u=example.org" target="_blank" class="fa fa-facebook"></a>
+     <a href="#" class="fa fa-google"></a>
+     <a href="https://www.linkedin.com/sharing/share-offsite/?url={url}" class="fa fa-linkedin"></a></p>
+    </div>
+
+
+</body>
+</html>

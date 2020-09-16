@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="main.css">
+<title>Virtual Labs</title>
+	<link rel="shortcut icon" href="images/logo.jpg">
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script >
+	/* Set the width of the side navigation to 250px and the left margin of the page content to 250px */
+   function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+    document.getElementById("main").style.marginLeft = "250px";
+  }
+
+/* Set the width of the side navigation to 0 and the left margin of the page content to 0 */
+  function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+    document.getElementById("main").style.marginLeft = "0";
+  }
+
+</script>
+</head>	
+<body>
+
+	<header>
+		<nav class="navbar">
+			<input type="checkbox" id="check" >
+			<label for="check">
+				<i class ="fas fa-bars " id="btn2"></i>
+				<i class ="fas fa-times " id="cancel"></i>
+			</label>
+			<img src="images/img1.jpg">
+			<ul class="main-nav">			    
+				    <li><a  class="active" href=" home.html">HOME</a></li>
+					<li><a href=" http://vlab.co.in/contact-us">About</a></li>
+					<li><a href=" #">Labs</a></li>
+					
+					
+			</ul>
+		</nav>
+    </header>
+    <div>
+    	<hr border-color="blue" width="100%" top="120px" >
+    </hr>
+    </div>	
+    
+    <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <a href="Aim.html">Aim</a>
+      <a href="Theory.html">Theory</a>
+      <a href="#">PreTest</a>
+      <a href="Procedure.html">Procedure</a>
+      <a href="#">Simulation</a>
+      <a href="#">PostTest</a>
+      <a href="#">Reference</a>
+    </div>
+
+<!-- Use any element to open the sidenav -->
+    <span onclick="openNav()"><b>Menu</b><input type="checkbox" id="check" >
+			<label for="check">
+				<i class ="fas fa-bars " id="btn3"></i>
+			</label>
+	</span>
+
+<!-- Add all page content inside this div if you want the side nav to push page content to the right (not used if you only want the sidenav to sit on top of the page -->
+    <div id="main" class="container">
+      <section>
+        <h3 style="text-align:center;" >Some basic definition for understanding the limit, fit and tolerances:</h3> <br>
+        <h3> Basic Size:</h3> The size with reference to which the limits of size are fixed.<br>
+
+         <h3>Actual Size:</h3> Actual measured dimension of the part.<br>
+         <h3>Zero Line:</h3> It is a straight line corresponding to the basic deviations is measured from this line. The positive and negative deviations are shown above and below the zero line respectively<br><br>
+         <img src="images/img2.png" style="width: 90%"> <br>
+
+         <h3>Limits of Size:</h3> The two extreme permissible sizes of a part between which the actual size should lie.<br>
+         <h3>Maximum Limit of Size:</h3> The greater of the two limits of size.<br>
+
+         <h3>Minimum Limit of Size:</h3> The smaller of the two limits of size.<br>
+
+         <h3>Shaft:</h3> A term used by convention to designate all external features of a part, including those which are not cylindrical.<br>
+         <h3>Hole:</h3> A term used by convention to designate all internal features of a part, including those which are not cylindrical.<br>
+         <h3>Allowance:</h3> It is the difference between the basic dimensions of the mating parts. When the shaft size is less than the hole size, then the allowance is positive and when the shaft size is greater than the hole size, then the allowance is negative.<br>
+
+         <h3>Tolerance:</h3> It is the difference between the upper limit and lower limit of a dimension.<br>
+
+         <h3>Tolerance Zone:</h3> It is the zone between the maximum and minimum limit size.<br>
+
+         <h3>Upper Deviation:</h3> It is the algebraic difference between the maximum size and the basic size. The upper deviation of a hole is represented by a symbol ES (Ecart Superior) and of a shaft, it is represented by es.<br>
+
+         <h3>Lower Deviation:</h3> It is the algebraic difference between the minimum size and the basic size. The lower deviation of a hole is represented by a symbol EI (Ecart Inferior) and of a shaft, it is represented by ei.<br>
+
+         <h3>Fundamental deviation:</h3> This is the deviation, either the upper or the lower deviation, which is nearest one to zero line for either a hole or shaft.<br>
+         <br>
+         <img src="images/img3.png" style="width: 90% "> <br>
+
+         <h3>Unilateral Tolerance:</h3> In this system, the dimension of a part is allowed to vary only on one side of the basic size, i.e. tolerance lies wholly on one side of the basic size either above or below it.<br>
+
+         <h3>Bilateral Tolerance:</h3> In this system, the dimension of the part is allowed to vary on both the sides of the basic size, i.e. the limits of tolerance lie on either side of the basic size.<br><br>
+         <img src="images/img4.png" style="width: 90% "> <br>
+
+         <h3>What is Fit?</h3>
+         Fit is defined as the degree of freedom of tightness between the mating parts in an assembly process. Fit obtaining parts are either movable joints or fixed joints.<br>
+
+         <h3>For Example Shaft and Bearing assembly.</h3>
+          • When the shaft is running in a bearing can move in  relation to it thus forms a movable joint.<br>
+         • Pulley mounted on the shaft forms a fixed joint.<br>
+
+        <h3>Different Types of Fits:</h3>
+         The types of fits are depending on the clearance they are.<br>
+         • Clearance fit<br>
+         • Transition fit<br>
+         • Interference fit<br>
+
+         <h3>Clearance fit:</h3>
+         • Clearance fit is arises at the Diameter of the shaft is smaller then the hole.<br>
+         • The minimum diameter of hole is grater then large diameter of the shaft.<br>
+         • Clearance value is positive when in this type of fit.<br>
+         <h3>Maximum Clearance:</h3> It is the difference between the maximum size of hole and minimum size of shaft.<br>
+         <h3>Minimum clearance:</h3> It is the difference between the maximum size of shaft and minimum size of the hole.  <br><br>
+         <img src="images/clearance.png" style="width: 90% ">
+
+         <h3>Transition fit:</h3>
+         The transition fit is obtained when the diameter of the largest hole is grater then the diameter of the smallest hole.<br><br>
+         <img src="images/transition.png" style="width: 90% "> <br>
+
+         <h3>Interference fit:</h3>
+         The interference type of fit the minimum allowable diameter of the shaft is larger than the maximum permissible diameter of the hole. As the diameter of the shaft is larger than the diameter of hole.<br>
+         • The hole and shaft is intended to be attached permanently.<br><br>
+         <img src="images/interference.png" style="width: 90% ">
+         <br><br><br><br><br>
+
+
+    </div>
+    <div class="footer">
+     <p><a href="https://www.facebook.com/sharer/sharer.php?u=example.org" target="_blank" class="fa fa-facebook"></a>
+     <a href="#" class="fa fa-google"></a>
+     <a href="https://www.linkedin.com/sharing/share-offsite/?url={url}" class="fa fa-linkedin"></a></p>
+    </div>
+
+
+</body>
+</html>
